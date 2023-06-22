@@ -1,0 +1,18 @@
+p {
+  background-color: #ffb6c1;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.24-club{
+  font-size: 24px;
+}
+
+#secondElement {
+  color: blue;
+  font-size: 36px;
+}
+
+#fourthElement {
+  background-color: #90EE90;
+  font-weight: bold;
+}
